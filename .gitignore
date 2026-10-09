@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+cache/
+generated/
+build/
+dist/
+.build-metadata/
+work/
+*.log
+server-url.txt
+blizzard.local.json
+.env*
+*.pem
+*.key
+verification-*.json

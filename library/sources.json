@@ -1,0 +1,30 @@
+{
+  "ruRU": {
+    "checkedAt": 1791465030.6889162,
+    "galleryCheckedAt": 1791465030.6889162,
+    "hsjsonUrl": "https://api.hearthstonejson.com/v1/latest/ruRU/cards.json",
+    "galleryUrl": "https://hearthstone.blizzard.com/ru-ru/api/cards",
+    "sourceBuild": "253932",
+    "locale": "ruRU",
+    "cardCount": 36219,
+    "galleryCount": 197,
+    "bytes": 2077599,
+    "sha256": "a9167609b048c1ec086660fe7d87306440937a32cce1fd45a658de9ffaee7f45",
+    "baseCount": 36022,
+    "migratedImages": 307
+  },
+  "enUS": {
+    "checkedAt": 1791465035.1439674,
+    "galleryCheckedAt": 1791465035.1439674,
+    "hsjsonUrl": "https://api.hearthstonejson.com/v1/latest/enUS/cards.json",
+    "galleryUrl": "https://hearthstone.blizzard.com/en-us/api/cards",
+    "sourceBuild": "253932",
+    "locale": "enUS",
+    "cardCount": 36219,
+    "galleryCount": 197,
+    "bytes": 1686638,
+    "sha256": "0271b55c79db4150608fe3e2ec8dea9b8dfb5c57a1e1befe860524b31f83acf4",
+    "baseCount": 36022,
+    "migratedImages": 95
+  }
+}
